@@ -1,0 +1,2 @@
+# computer_graphics_algorithms_archive
+Архив по дисциплине Алгоритмы компьютерной графики
