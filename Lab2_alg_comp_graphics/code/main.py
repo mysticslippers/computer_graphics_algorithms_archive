@@ -15,7 +15,7 @@ from PIL import (
 
 APP_TITLE = "Filters: Grey, Blur, Contrast, Brightness, Invert - Михайлов Дмитрий Андреевич P3306"
 
-DEFAULT_FILENAME = "test.jpg"
+DEFAULT_FILENAME = "test.png"
 
 PREVIEW_MAX_WIDTH = 500
 PREVIEW_MAX_HEIGHT = 400
